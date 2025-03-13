@@ -1,5 +1,5 @@
-## Uruchom Codespaces
+## Run Codespaces
 
-Uruchom Codespaces korzystając z `Code` -> `Codespaces` -> `New codespace` (przycisk `+`).
+Run Codespaces by clicking `Code` -> `Codespaces` -> `New codespace` (button `+`).
 
 ![](imgs/run-codespaces.png)
